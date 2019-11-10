@@ -14,18 +14,18 @@ h1{
 .images{
 	height: 480px;
 	width: 480px;
-	background-size: cover;
+	background-size: 100% 100%;
 	margin: auto;
 	margin-top: 1%;
 	align-content: center;
 	}
 
 #image-1{
-	background-image: url("../pictures/sun.png");
+	background-image: url("../pictures/water.jpg");
 }
 
 #image-2{
-	background-image: url("../pictures/solarpanels.jpg");
+	background-image: url("../pictures/shed.jpeg");
 }
 
 #button {
