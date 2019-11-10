@@ -1,0 +1,193 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+
+h1{
+	font-size: 5vh;
+}
+
+.question {
+	font-size: 2vh;
+}
+
+.images{
+	height: 480px;
+	width: 480px;
+	background-size: cover;
+	margin: auto;
+	margin-top: 1%;
+	align-content: center;
+	}
+
+#image-1{
+	background-image: url("../pictures/sun.png");
+}
+
+#image-2{
+	background-image: url("../pictures/solarpanels.jpg");
+}
+
+#button {
+	height: 200px;
+	width: 44%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 5%;
+}
+
+.text {
+	font-size: 2vh;
+}
+
+.button1  {
+
+}
+
+.button2  {
+	
+}
+
+.button3  {
+	
+}
+
+.button4  {
+	
+}
+
+.popup2 {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+  
+.popup2 .popuptext2 {
+	visibility: hidden;
+	width: 160px;
+	background-color: #bf001d;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 8px 0;
+	position: absolute;
+	z-index: 1;
+	bottom: 125%;
+	left: 50%;
+	margin-left: -80px;
+}
+  
+.popup2 .popuptext2::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #bf001d transparent transparent transparent;
+}
+  
+.popup2 .show {
+	visibility: visible;
+	-webkit-animation: fadeIn 1s;
+	animation: fadeIn 1s;
+}
+
+.popup3 {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+  
+.popup3 .popuptext3 {
+	visibility: hidden;
+	width: 160px;
+	background-color: #bf001d;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 8px 0;
+	position: absolute;
+	z-index: 1;
+	bottom: 125%;
+	left: 50%;
+	margin-left: -80px;
+}
+  
+.popup3 .popuptext3::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #bf001d transparent transparent transparent;
+}
+  
+.popup3 .show {
+	visibility: visible;
+	-webkit-animation: fadeIn 1s;
+	animation: fadeIn 1s;
+}
+
+.popup4 {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+  
+.popup4 .popuptext4 {
+	visibility: hidden;
+	width: 160px;
+	background-color: #bf001d;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 8px 0;
+	position: absolute;
+	z-index: 1;
+	bottom: 125%;
+	left: 50%;
+	margin-left: -80px;
+}
+  
+.popup4 .popuptext4::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #bf001d transparent transparent transparent;
+}
+  
+.popup4 .show {
+	visibility: visible;
+	-webkit-animation: fadeIn 1s;
+	animation: fadeIn 1s;
+}
+  
+@-webkit-keyframes fadeIn {
+	from {opacity: 0;} 
+	to {opacity: 1;}
+  }
+  
+@keyframes fadeIn {
+	from {opacity: 0;}
+	to {opacity:1 ;}
+  }

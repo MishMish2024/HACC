@@ -1,0 +1,15 @@
+h1 {
+    font-size: 8vh;
+}
+
+#button {
+	height: 200px;
+	width: 44%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 5%;
+}
+
+.text {
+	font-size: 2vh;
+}

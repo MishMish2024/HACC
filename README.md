@@ -1,2 +1,1 @@
-# HACC
-This is for HACC
+# hacc
