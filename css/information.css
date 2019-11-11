@@ -4,18 +4,18 @@ html{
 }
 
 h1{
-	font-size: 3vh;
+	font-size: 5vh;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 }
 
 h2{
-	font-size: 2vh;
+	font-size: 3vh;
 	font-family: 'Roboto', sans-serif;
 	text-decoration-line: underline;
 }
 
 p{
-	font-size: 1vh;
+	font-size: 2vh;
 	font-family: 'Lato', sans-serif;
 }
